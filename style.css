@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    width: 20rem;
+    margin: 0 auto;
+}
+
+#main {
+    background: darkblue;
+}
+
+#temp {
+    color: white;
+    font-size: 140px;
+    margin-top: 20px;
+}
+
+.innerContainer {
+    margin: 65% 0;
+    font-size: 20px;
+    color: white;
+}
+
+h6 {
+    margin-top: 20px;
+}
